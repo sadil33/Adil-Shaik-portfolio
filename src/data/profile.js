@@ -11,12 +11,12 @@ export const PROFILE = {
     socials: [
         {
             name: "LinkedIn",
-            url: "https://linkedin.com/in/adil-shaik",
+            url: "https://www.linkedin.com/in/adil-shaik-19aa83237",
             icon: Linkedin,
         },
         {
             name: "GitHub",
-            url: "https://github.com/19aa83237", // Assuming this from resume '19aa83237' or placeholder
+            url: "https://github.com/sadil33",
             icon: Github,
         },
         {
